@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682956933 source:d:\sorting algorithm\01.bubble sort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
